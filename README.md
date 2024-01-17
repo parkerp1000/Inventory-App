@@ -18,4 +18,4 @@ This simple Python application allows users to input data (model, serial number,
 ### Installation
 
 1. Clone the repository:
- git clone https://github.com/your-username/csv-data-entry-app.git
+ git clone https://github.com/parkerp1000/Inventory-App.git
